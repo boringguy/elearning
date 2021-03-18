@@ -8,7 +8,7 @@ django-js-asset==0.1.1
 django-polls==0.1
 idna==2.5
 olefile==0.44
-Pillow==4.1.1
+Pillow==8.1.1
 pytz==2017.2
 requests==2.18.1
 urllib3==1.21.1
